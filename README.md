@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Easy to use reactjs admin dashboard. Easy integration
 
+dark and light mode fully integrated using Context api 
+
 ## Available Scripts
 
 In the project directory, you can run:
